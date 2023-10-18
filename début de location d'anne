@@ -1,0 +1,13 @@
+début de location d'anne 
+
+nbanne=0
+si argent > 0 ET prix > 0 et argent >= prix
+argent= argent - prix
+nbanne= nbanne + 1
+
+fin de tan que
+
+retourner nbanne
+
+fin de location d'anne
+    
